@@ -6,6 +6,8 @@ It is an attempt at implementing the arrive guideline (https://www.nc3rs.org.uk/
 
 Note that the idea is to collect the information as early as possible and publish it as metadata files together with the data, while a restrained report would be included in the manuscript (probably in a table form).
 
+This project is aimed at mice and rats but might be extended to other species.
+
 # Initial Plan
 
 - List the information the researcher need to gather. see https://docs.google.com/spreadsheets/d/15TyD5fSsD906IIpBKcsRC-LbhLsNu__VVYuQ5I5tYIU/edit?usp=sharing and metadata_description.md
