@@ -6,7 +6,7 @@ It is an attempt at implementing the arrive guideline (https://www.nc3rs.org.uk/
 
 # Initial Plan
 
-- List the information the researcher need to gather.
+- List the information the researcher need to gather. see https://docs.google.com/spreadsheets/d/15TyD5fSsD906IIpBKcsRC-LbhLsNu__VVYuQ5I5tYIU/edit?usp=sharing and metadata_description.md
 - Analyse the source of the information, and when it can be collected.
 - Get one or several spreadsheets version of the metadata files.
 - Maybe provide an xml version of the standard ?
