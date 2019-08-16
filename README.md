@@ -2,7 +2,7 @@
 Here, we want to build a standard for the description of rodents in publication, i.e. both working on the information to collect, the format in which this information can be given and putatively some software to extract information from different sources. This project relates to the www.reagents.io open source project, but has a more narrow scope.
 
 
-It is an attempt at implementing the arrive guideline (https://www.nc3rs.org.uk/arrive-guidelines) and the "Guidance for the Description of Animal Research in Scientific Publications" (International Standard Book Number-13: 978-0-309-21951-8 International Standard Book Number-10: 0-309-21951-5, https://www.ncbi.nlm.nih.gov/books/NBK84202/).
+It is an attempt at implementing the arrive guideline (https://www.nc3rs.org.uk/arrive-guidelines) and the "Guidance for the Description of Animal Research in Scientific Publications" (International Standard Book Number-13: 978-0-309-21951-8 International Standard Book Number-10: 0-309-21951-5, https://www.ncbi.nlm.nih.gov/books/NBK84202/). Note that the idea is to collect the information as early as possible and publish it as metadata files together with the data, while a restrained report would be included in the manuscript (in a table form).
 
 # Initial Plan
 
