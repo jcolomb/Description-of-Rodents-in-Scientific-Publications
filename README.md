@@ -13,7 +13,7 @@ This project is aimed at mice and rats but might be extended to other species.
 - List the information the researcher need to gather. see https://docs.google.com/spreadsheets/d/15TyD5fSsD906IIpBKcsRC-LbhLsNu__VVYuQ5I5tYIU/edit?usp=sharing and metadata_description.md
 - Analyse the source of the information, and when it can be collected.
 - Get one or several spreadsheets version of the metadata files.
-- Maybe provide an xml version of the standard ?
+- Maybe provide an xml/json version of the standard, refer to https://github.com/HumanBrainProject/openMINDS/ ?
 
 ## latest development
 
